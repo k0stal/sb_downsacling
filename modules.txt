@@ -1,0 +1,5 @@
+ml Python/3.11.3-GCCcore-12.3.0
+ml PyTorch-Lightning/2.2.3-foss-2023a-CUDA-12.1.1
+ml torchvision/0.16.2-foss-2023a-CUDA-12.1.1
+ml tensorboard/2.15.1-foss-2023a
+ml h5py/3.9.0-foss-2023a
