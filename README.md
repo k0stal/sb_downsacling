@@ -1,10 +1,15 @@
-## ERA5 Downscaling Utilities
+## Downscaling Utilities
 
 ---
 
 ### Overview
 
-This repository provides a set of Python utilities for training and evaluating super-resolution models designed to downscale the **ERA5 reanalysis** dataset.
+This repository provides a set of Python utilities for training and evaluating super-resolution models designed to downscale the **ERA5** and **CERRA** datasets.
+
+- **ERA5** (ECMWF reanalysis)
+  *source:* [ERA5 hourly data on single levels from 1940 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels)
+- **CERRA** (The Copernicus European Regional ReAnalysis)
+  *source:* [CERRA sub-daily regional reanalysis data for Europe on single levels from 1984 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-cerra-single-levels)
 
 ---
 
